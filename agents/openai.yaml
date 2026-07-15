@@ -1,0 +1,4 @@
+interface:
+  display_name: "智能经验提取器"
+  short_description: "提炼、脱敏并保存已验证且可复用的工程排障与部署经验"
+  default_prompt: "使用 $intelligent-experience-extractor 评估已完成的工程任务，预览并按我的选择保存可复用经验。"
