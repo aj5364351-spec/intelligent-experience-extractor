@@ -1,6 +1,6 @@
 ---
 name: intelligent-experience-extractor
-description: "检索并沉淀项目内已验证、可复用的工程经验。Use when starting troubleshooting, build, deployment, CI/CD, dependency, environment, configuration, performance, or stability work to search the project's Markdown knowledge base; also use after such work is verified complete, or when the user asks to record or review lessons, to extract a sanitized preview and save it only with explicit authorization or a persisted auto-save opt-in. Operate only through project file reads and writes, without platform memory, hooks, or proprietary APIs."
+description: Extract verified engineering experiences from completed troubleshooting, builds, and deployments. Search the project knowledge base before work; after verified completion, preview a sanitized, deduplicated entry and save only with authorization.
 ---
 
 # 智能经验提取器

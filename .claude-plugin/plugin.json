@@ -1,0 +1,24 @@
+{
+  "name": "intelligent-experience-extractor",
+  "version": "1.1.0",
+  "description": "Turn every debug session and outage into a searchable, reusable engineering experience — auto-redacted, deduplicated, human-readable",
+  "author": {
+    "name": "zorix",
+    "url": "https://github.com/aj5364351-spec"
+  },
+  "homepage": "https://github.com/aj5364351-spec/intelligent-experience-extractor",
+  "repository": "https://github.com/aj5364351-spec/intelligent-experience-extractor",
+  "license": "MIT",
+  "keywords": [
+    "experience-extraction",
+    "troubleshooting",
+    "knowledge-base",
+    "agent-skill",
+    "markdown",
+    "developer-tools",
+    "claude-code"
+  ],
+  "skills": [
+    "./"
+  ]
+}
